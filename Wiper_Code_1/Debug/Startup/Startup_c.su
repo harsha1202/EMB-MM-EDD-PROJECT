@@ -1,0 +1,2 @@
+Startup_c.c:221:6:Default_Handler	4	static
+Startup_c.c:226:6:Reset_Handler	32	static

@@ -1,0 +1,8 @@
+main.c:61:6:EXTI0_IRQHandler	16	static
+main.c:100:13:Init_Function	4	static
+main.c:112:13:Intr_Function_Init	4	static
+main.c:122:13:Intr_Clean_Function	4	static
+main.c:127:13:Freq_1_Function	16	static
+main.c:141:13:Freq_2_Function	16	static
+main.c:155:13:Freq_3_Function	16	static
+main.c:169:5:main	8	static
